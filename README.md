@@ -15,4 +15,4 @@ Save the dataset inside a folder call it Dataset inside Nucleus_Seg.
 # Step 4:
 Copy all the files provided in this repository to Nucleus_Seg.
 # Note:
-You will find the file .h5 of the weights on the google drive of this project.
+I will share the file .h5 of the weights with you on google drive.
